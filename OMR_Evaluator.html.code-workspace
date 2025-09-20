@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../Basic CPP Code"
+		},
+		{
+			"path": "../DSA Practice questions"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Development",
+		"files.associations": {
+			"*.json": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
